@@ -21,7 +21,7 @@
 - 📊 Data‑driven dashboards or automation scripts.
 
 ## 📫 How to Reach Me
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+- ✉️ Email: [your.email@example.com](mailto:ashishjaiswal3523@gmail.com)
 - 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
