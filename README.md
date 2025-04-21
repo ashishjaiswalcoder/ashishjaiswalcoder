@@ -22,8 +22,7 @@
 
 ## 📫 How to Reach Me
 - ✉️ Email: [ashishjaiswal3523@gmail.com](mailto:ashishjaiswal3523@gmail.com)
-- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
 
 ## 😄 Pronouns
 - He / Him
